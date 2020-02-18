@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "nimble-partner-launcher",
+    "displayName": "NimblePartnerLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "nimble-partner-nerdlet"
+}
